@@ -4,8 +4,7 @@ So I built a cube made up of 6 responsive planes that each generates their topog
 based on the level of amplification of the sound that is played. I made it in processing. 
 
 
-![Image of Yaktocat]
-(data/cube1.png)
+![Image of Yaktocat](data/cube1.png)
 
 
 
