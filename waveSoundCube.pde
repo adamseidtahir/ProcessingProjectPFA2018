@@ -1,9 +1,3 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-// Code for: https://youtu.be/IKB1hWWedMk
-// Modifed by Palle Torsson for Programming for Artist 2018
-
 import processing.sound.*;
 Amplitude amp;
 SoundFile file;
