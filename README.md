@@ -5,10 +5,9 @@ based on the level of amplification of the sound that is played.
 
 I made it in processing. 
 
-<video width="320" height="240" controls>
-  <source src="https://vimeo.com/381885743" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="420" height="315"
+src="https://vimeo.com/381885743">
+</iframe>
 
 This is a link to the video preview: https://vimeo.com/381885743  
 
