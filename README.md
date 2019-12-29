@@ -5,7 +5,7 @@ based on the level of amplification of the sound that is played. I made it in pr
 
 
 ![Image of Yaktocat]
-(https://github.com/adamseidtahir/Sound-responsive-3Dterrain/blob/master/data/cube1.png)
+(data/cube1.png)
 
 
 
