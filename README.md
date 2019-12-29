@@ -1,7 +1,11 @@
 # Sound-responsive-3Dterrain
 I aimed to find a way to visualize sound in another structure than I'm used to. 
 So I built a cube made up of 6 responsive planes that each generates their topography 
-based on the level of amplification of the sound that is played. I made it in processing. 
+based on the level of amplification of the sound that is played. 
+
+I made it in processing. 
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 
 ![Image of Cube](data/cube1.png)
@@ -14,7 +18,7 @@ based on the level of amplification of the sound that is played. I made it in pr
 
 
 
-
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 This is a link to the video preview: https://vimeo.com/381885743  
 
